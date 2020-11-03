@@ -4,4 +4,5 @@ void main(){
   print("the world");
   print("한글");
   print("man");
+  print("woman");
 }
